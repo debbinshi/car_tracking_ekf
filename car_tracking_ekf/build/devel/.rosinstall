@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/debbin/work/planning/car_tracking_ekf/build/devel/setup.sh
